@@ -1,0 +1,187 @@
+Rank,Country,% of GDP
+1,Mongolia,8.62
+2,Mozambique,4.17
+3,South Africa,2.4
+4,India,1.15
+5,Indonesia,1.06
+6,Kazakhstan,0.99
+7,Australia,0.78
+8,Colombia,0.75
+9,China,0.57
+10,Tajikistan,0.54
+11,Russia,0.53
+12,Afghanistan,0.45
+13,Botswana,0.45
+14,Ukraine,0.42
+15,Zimbabwe,0.4
+16,Vietnam,0.35
+17,Bosnia and Herzegovina,0.34
+18,Kosovo,0.31
+19,Poland,0.27
+20,Serbia,0.25
+21,Kyrgyzstan,0.21
+22,United States,0.2
+23,Bulgaria,0.14
+24,Czechia,0.14
+25,Montenegro,0.12
+26,Eswatini,0.1
+27,Canada,0.08
+28,Philippines,0.07
+29,Pakistan,0.06
+30,Uzbekistan,0.06
+31,Turkey (Turkiye),0.05
+32,Greece,0.04
+33,Zambia,0.04
+34,Albania,0.03
+35,Malawi,0.03
+36,Mexico,0.03
+37,New Zealand,0.03
+38,Niger,0.03
+39,Romania,0.03
+40,Slovenia,0.03
+41,Thailand,0.03
+42,Bangladesh,0.02
+43,Germany,0.02
+44,Malaysia,0.02
+45,Tanzania,0.02
+46,Brazil,0.01
+47,Burma,0.01
+48,Chile,0.01
+49,Georgia,0.01
+50,Hungary,0.01
+51,Iran,0.01
+52,Slovakia,0.01
+53,Algeria,0.0
+54,American Samoa,0.0
+55,Angola,0.0
+56,Antigua and Barbuda,0.0
+57,Argentina,0.0
+58,Armenia,0.0
+59,Austria,0.0
+60,Azerbaijan,0.0
+61,"Bahamas, The",0.0
+62,Bahrain,0.0
+63,Barbados,0.0
+64,Belarus,0.0
+65,Belgium,0.0
+66,Belize,0.0
+67,Benin,0.0
+68,Bhutan,0.0
+69,Bolivia,0.0
+70,Brunei,0.0
+71,Burkina Faso,0.0
+72,Burundi,0.0
+73,Cabo Verde,0.0
+74,Cambodia,0.0
+75,Cameroon,0.0
+76,Cayman Islands,0.0
+77,Central African Republic,0.0
+78,Chad,0.0
+79,Comoros,0.0
+80,"Congo, Democratic Republic of the",0.0
+81,"Congo, Republic of the",0.0
+82,Costa Rica,0.0
+83,Cote d'Ivoire,0.0
+84,Croatia,0.0
+85,Cuba,0.0
+86,Curacao,0.0
+87,Cyprus,0.0
+88,Denmark,0.0
+89,Djibouti,0.0
+90,Dominica,0.0
+91,Dominican Republic,0.0
+92,Ecuador,0.0
+93,El Salvador,0.0
+94,Equatorial Guinea,0.0
+95,Estonia,0.0
+96,Ethiopia,0.0
+97,Fiji,0.0
+98,Finland,0.0
+99,France,0.0
+100,Gabon,0.0
+101,"Gambia, The",0.0
+102,Ghana,0.0
+103,Greenland,0.0
+104,Grenada,0.0
+105,Guam,0.0
+106,Guatemala,0.0
+107,Guinea,0.0
+108,Guinea-Bissau,0.0
+109,Guyana,0.0
+110,Haiti,0.0
+111,Honduras,0.0
+112,Hong Kong,0.0
+113,Iceland,0.0
+114,Iraq,0.0
+115,Ireland,0.0
+116,Israel,0.0
+117,Italy,0.0
+118,Jamaica,0.0
+119,Japan,0.0
+120,Jordan,0.0
+121,Kenya,0.0
+122,Kiribati,0.0
+123,"Korea, South",0.0
+124,Kuwait,0.0
+125,Latvia,0.0
+126,Lebanon,0.0
+127,Lesotho,0.0
+128,Liberia,0.0
+129,Libya,0.0
+130,Lithuania,0.0
+131,Luxembourg,0.0
+132,Macau,0.0
+133,Madagascar,0.0
+134,Maldives,0.0
+135,Mali,0.0
+136,Malta,0.0
+137,Mauritania,0.0
+138,Mauritius,0.0
+139,Moldova,0.0
+140,Morocco,0.0
+141,Namibia,0.0
+142,Nepal,0.0
+143,Netherlands,0.0
+144,Nicaragua,0.0
+145,Nigeria,0.0
+146,North Macedonia,0.0
+147,Norway,0.0
+148,Oman,0.0
+149,Panama,0.0
+150,Papua New Guinea,0.0
+151,Paraguay,0.0
+152,Peru,0.0
+153,Portugal,0.0
+154,Puerto Rico,0.0
+155,Qatar,0.0
+156,Rwanda,0.0
+157,Saint Kitts and Nevis,0.0
+158,Saint Lucia,0.0
+159,Saint Vincent and the Grenadines,0.0
+160,Samoa,0.0
+161,Sao Tome and Principe,0.0
+162,Saudi Arabia,0.0
+163,Senegal,0.0
+164,Seychelles,0.0
+165,Sierra Leone,0.0
+166,Singapore,0.0
+167,Solomon Islands,0.0
+168,Spain,0.0
+169,Sri Lanka,0.0
+170,Sudan,0.0
+171,Suriname,0.0
+172,Sweden,0.0
+173,Switzerland,0.0
+174,Timor-Leste,0.0
+175,Togo,0.0
+176,Tonga,0.0
+177,Trinidad and Tobago,0.0
+178,Tunisia,0.0
+179,Turkmenistan,0.0
+180,Turks and Caicos Islands,0.0
+181,Uganda,0.0
+182,United Arab Emirates,0.0
+183,United Kingdom,0.0
+184,Uruguay,0.0
+185,Vanuatu,0.0
+186,Yemen,0.0

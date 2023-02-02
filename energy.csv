@@ -1,0 +1,213 @@
+Rank,Country,Btu/person
+1,Qatar,723582000.0
+2,Singapore,639951000.0
+3,Bahrain,547976000.0
+4,United Arab Emirates,471788000.0
+5,Brunei,415184000.0
+6,Canada,403700000.0
+7,Kuwait,381985000.0
+8,Norway,333833000.0
+9,Turkmenistan,330507000.0
+10,Luxembourg,310068000.0
+11,United States,304414000.0
+12,Saudi Arabia,296949000.0
+13,Oman,292022000.0
+14,Malta,267739000.0
+15,"Korea, South",242346000.0
+16,Australia,241004000.0
+17,Belgium,234216000.0
+18,Russia,227898000.0
+19,Netherlands,219606000.0
+20,Finland,216571000.0
+21,Sweden,210882000.0
+22,New Zealand,186804000.0
+23,Kazakhstan,180726000.0
+24,Bermuda,176312000.0
+25,Cayman Islands,175578000.0
+26,Aruba,174629000.0
+27,Hong Kong,172009000.0
+28,Austria,171299000.0
+29,Seychelles,163060000.0
+30,Czechia,161972000.0
+31,Germany,161174000.0
+32,Taiwan,160669000.0
+33,Guam,152767000.0
+34,France,151053000.0
+35,Japan,147107000.0
+36,Iran,145540000.0
+37,"Bahamas, The",140505000.0
+38,Switzerland,137918000.0
+39,Slovenia,134836000.0
+40,Cyprus,133920000.0
+41,Ireland,133674000.0
+42,Slovakia,129665000.0
+43,Denmark,124163000.0
+44,Malaysia,123755000.0
+45,Spain,122673000.0
+46,United Kingdom,119894000.0
+47,Israel,113273000.0
+48,Poland,112831000.0
+49,Italy,112606000.0
+50,Hungary,108212000.0
+51,Greece,108022000.0
+52,Antigua and Barbuda,107154000.0
+53,Libya,107118000.0
+54,China,105687000.0
+55,Bulgaria,103924000.0
+56,Belarus,102558000.0
+57,Portugal,101734000.0
+58,Lithuania,101651000.0
+59,Bhutan,100135000.0
+60,Panama,98946000.0
+61,South Africa,98474000.0
+62,Serbia,98195000.0
+63,Puerto Rico,94379000.0
+64,Croatia,89733000.0
+65,American Samoa,88796000.0
+66,Latvia,86645000.0
+67,Venezuela,85829000.0
+68,Barbados,83723000.0
+69,Mongolia,83045000.0
+70,Ukraine,82571000.0
+71,Suriname,82356000.0
+72,Chile,81953000.0
+73,Macau,81407000.0
+74,British Virgin Islands,80136000.0
+75,Mauritius,79448000.0
+76,Turkey (Turkiye),79126000.0
+77,Argentina,79083000.0
+78,Montenegro,77286000.0
+79,Thailand,76714000.0
+80,Estonia,76329000.0
+81,Laos,73187000.0
+82,Saint Kitts and Nevis,71960000.0
+83,Bosnia and Herzegovina,71815000.0
+84,Romania,71736000.0
+85,Uruguay,66909000.0
+86,Azerbaijan,64416000.0
+87,Georgia,63286000.0
+88,Iraq,63174000.0
+89,Paraguay,62775000.0
+90,Mexico,61597000.0
+91,Algeria,61433000.0
+92,Maldives,59690000.0
+93,Brazil,59444000.0
+94,Uzbekistan,57709000.0
+95,Equatorial Guinea,57596000.0
+96,North Macedonia,53572000.0
+97,Lebanon,53528000.0
+98,Armenia,53019000.0
+99,Kosovo,51462000.0
+100,Saint Lucia,50872000.0
+101,Jamaica,49700000.0
+102,Guyana,48608000.0
+103,Costa Rica,44899000.0
+104,Ecuador,42564000.0
+105,Moldova,40398000.0
+106,Egypt,40063000.0
+107,Grenada,39799000.0
+108,Jordan,39331000.0
+109,Dominican Republic,39016000.0
+110,Albania,38442000.0
+111,Dominica,37513000.0
+112,Peru,36465000.0
+113,Vietnam,36392000.0
+114,Tunisia,35620000.0
+115,Kyrgyzstan,35059000.0
+116,Colombia,34703000.0
+117,Botswana,34095000.0
+118,Fiji,32901000.0
+119,Cuba,32785000.0
+120,Belize,31552000.0
+121,Namibia,29811000.0
+122,Indonesia,29680000.0
+123,Saint Vincent and the Grenadines,27821000.0
+124,Tajikistan,27651000.0
+125,Samoa,27111000.0
+126,Bolivia,27094000.0
+127,Gabon,26786000.0
+128,Cabo Verde,26539000.0
+129,Morocco,24590000.0
+130,Syria,24567000.0
+131,El Salvador,24124000.0
+132,India,23231000.0
+133,Tonga,22841000.0
+134,Honduras,19800000.0
+135,Guatemala,19411000.0
+136,Eswatini,19371000.0
+137,Philippines,19261000.0
+138,Sri Lanka,17268000.0
+139,"Congo, Republic of the",16156000.0
+140,Pakistan,15859000.0
+141,Nicaragua,14916000.0
+142,Cambodia,13629000.0
+143,Gaza Strip,13604000.0
+144,West Bank,13604000.0
+145,Mauritania,13558000.0
+146,"Korea, North",12610000.0
+147,Angola,11693000.0
+148,Sao Tome and Principe,11636000.0
+149,Zambia,11595000.0
+150,Zimbabwe,11516000.0
+151,Papua New Guinea,11316000.0
+152,Ghana,11239000.0
+153,Vanuatu,10878000.0
+154,Burma,10679000.0
+155,Bangladesh,9917000.0
+156,Kiribati,9335000.0
+157,Senegal,9221000.0
+158,Djibouti,8869000.0
+159,Benin,8468000.0
+160,Nigeria,8466000.0
+161,Cote d'Ivoire,8225000.0
+162,Mozambique,8107000.0
+163,Sudan,8047000.0
+164,Lesotho,7823000.0
+165,Solomon Islands,6955000.0
+166,Kenya,6310000.0
+167,Cameroon,6187000.0
+168,Timor-Leste,5740000.0
+169,Yemen,5453000.0
+170,Comoros,5346000.0
+171,Nepal,5219000.0
+172,Mali,4396000.0
+173,Guinea,4133000.0
+174,Togo,4113000.0
+175,Haiti,3970000.0
+176,Liberia,3790000.0
+177,"Gambia, The",3547000.0
+178,Tanzania,3334000.0
+179,Burkina Faso,3230000.0
+180,Afghanistan,3227000.0
+181,Ethiopia,3219000.0
+182,Eritrea,3217000.0
+183,Uganda,2943000.0
+184,Guinea-Bissau,2460000.0
+185,South Sudan,2404000.0
+186,Madagascar,2307000.0
+187,Malawi,1809000.0
+188,Sierra Leone,1803000.0
+189,Rwanda,1704000.0
+190,Chad,1575000.0
+191,Niger,1540000.0
+192,"Congo, Democratic Republic of the",1371000.0
+193,Central African Republic,1121000.0
+194,Burundi,1087000.0
+195,Somalia,802000.0
+196,Antarctica,0.0
+197,Cook Islands,0.0
+198,Falkland Islands (Islas Malvinas),0.0
+199,Faroe Islands,0.0
+200,French Polynesia,0.0
+201,Gibraltar,0.0
+202,"Micronesia, Federated States of",0.0
+203,Montserrat,0.0
+204,Nauru,0.0
+205,New Caledonia,0.0
+206,Niue,0.0
+207,Northern Mariana Islands,0.0
+208,"Saint Helena, Ascension, and Tristan da Cunha",0.0
+209,Saint Pierre and Miquelon,0.0
+210,Turks and Caicos Islands,0.0
+211,Tuvalu,0.0
+212,Wake Island,0.0
