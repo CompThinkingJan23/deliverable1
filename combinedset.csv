@@ -1,4 +1,4 @@
-Country,Coal Revenue,Forest Revenue,Energy Consumption,Metric Tons of CO2,Barrels per Day of Petroleum
+Country,Coal_GDP,Forest_GDP,Btu,MetricTonsCO2,BBL_dayPetroleum
 Mongolia,8.62,0.14,83045000.0,22740000.0,0
 Mozambique,4.17,6.46,8107000.0,7753000.0,0
 India,1.15,0.14,23231000.0,2314738000.0,4897000
